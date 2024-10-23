@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    height: 200px;
+    width: 100%;
+    background-color: #00accf;
+    display: flex;
+    align-items: center;
+    border-color: black;
+    border-width: thick;
+    border-style: solid;
+}
+
+#logo{
+    height: 150px;
+    width: 400px;
+    border-color: black;
+    border-width: thick;
+    border-style: solid;
+}
+
+#reg{
+    text-decoration: none;
+    color: black;
+}
+
+main{
+    background-color: #954094;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+#tit_lap{
+    background-color: #00accf;
+    border-radius: 15%;
+    margin-top: 20px;
+}
+
+#text_lap{
+    background-color: #00accf;
+    border-radius: 4%;
+    margin-top: 15px;
+}
+
+.menu{
+    margin-top: 10px;
+}
+
+#lap{
+    margin-top: 10px;
+    height: 90%;
+    width: 100%;
+    margin-left: 50px;
+    border-radius: 15%;
+}
+
+.grad{
+    height: 200px;
+    background-image: linear-gradient(to top, #00accf, #954094);
+}
+
+#face{
+    height: 100px;
+    border-radius: 50%;
+}
+
+#twi{
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+#ins{
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+footer{
+    height: 200px;
+    background-color: #00accf;
+}
+
+#copy{
+    display: flex;
+    align-items: center;
+}
+
+.reg-foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#reg-foot{
+    text-decoration: none;
+    color: black;
+}
